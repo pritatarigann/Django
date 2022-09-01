@@ -1,0 +1,2 @@
+HEROKU_API_KEY: 0d1d71bd-1048-4025-b679-9520d534e974
+HEROKU_APP_NAME: my-django-pbp-template
